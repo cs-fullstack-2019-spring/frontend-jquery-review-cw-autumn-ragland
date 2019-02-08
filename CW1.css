@@ -1,0 +1,10 @@
+/*border classes*/
+.greenBorder{
+    border: green 3px solid;
+}
+.redBorder{
+    border: 3px red solid;
+}
+.blueBorder{
+    border: 3px blue solid;
+}
